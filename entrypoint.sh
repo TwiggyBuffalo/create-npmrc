@@ -7,4 +7,4 @@ if [[ -z "$INPUT_AUTH_TOKEN" ]]; then
 else
     echo "//npm.pkg.github.com/:_authToken=$INPUT_AUTH_TOKEN" >> .npmrc
 fi
-cat .npmrc
+pwd
