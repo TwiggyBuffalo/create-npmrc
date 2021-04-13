@@ -1,5 +1,5 @@
-name: 'Create a .npmrc file for the github private repository'
-description: 'Create a .npmrc file for the github private repository'
+name: 'Generate .npmrc for Private Repo'
+description: 'Generate .npmrc for Private Repo'
 branding:
   color: 'green'
   icon: 'box'
