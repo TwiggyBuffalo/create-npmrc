@@ -7,9 +7,6 @@ inputs:
   org_name:
     description: 'Github repository name'
     required: true
-  directory:
-    description: 'directory to create npmrc'
-    required: false
   auth_token:
     description: 'AuthToken for github'
     required: false
